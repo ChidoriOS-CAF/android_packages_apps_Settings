@@ -10108,4 +10108,7 @@
     <string name="qtifeedback_activity">com.qti.smq.ui.QtiFeedbackActivity</string>
 
     <string name="reset_default_apn_failed">Failed to reset default apn</string>
+    
+    <!-- Rom version -->
+    <string name="rom_version_title">ChidoriOS version</string>
 </resources>
